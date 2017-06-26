@@ -1,0 +1,17 @@
+{
+  "name": "cat-clicker",
+  "version": "1.0.0",
+  "description": "Task for JavaScript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "author": "Edd Figueiredo",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
